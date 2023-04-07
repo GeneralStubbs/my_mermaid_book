@@ -1,0 +1,7 @@
+jupyter-book
+matplotlib
+numpy
+ghp-import
+sphinxcontrib-mermaid==0.8.1
+altair==4.2.2
+vega-datasets==0.9.0
