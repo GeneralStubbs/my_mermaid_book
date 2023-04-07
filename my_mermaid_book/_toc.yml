@@ -8,4 +8,4 @@ chapters:
 - file: notebooks
 - file: markdown-notebooks
 - file: mermaid-markdown
-- file: alair-markdown
+- file: altair-markdown
