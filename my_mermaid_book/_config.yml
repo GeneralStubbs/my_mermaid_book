@@ -39,3 +39,8 @@ html:
 sphinx:
   extra_extensions:
     - sphinxcontrib.mermaid
+  config:
+    nb_custom_formats:
+        .Rmd:
+            - jupytext.reads
+            - fmt: Rmd
